@@ -1,6 +1,6 @@
-# flutter_startup_namer
+# Flutter Startup Namer
 
-A new Flutter project.
+A Flutter Android & IOS application for coming up with new startup names
 
 ## Getting Started
 
